@@ -9,5 +9,5 @@
 📫 How to reach me:
    - Email: rjafar3@uic.edu
    - LinkedIn: [Roya Jafari]([Your LinkedIn Profile URL](https://www.linkedin.com/in/roya-jafari-0b190287/))
-   - GitHub: [RoyaJafari89](https://github.com/Roya-Jafari)
+   - GitHub: [Roya-Jafari](https://github.com/Roya-Jafari)
    - Phone: (+1) 618 303 5238
