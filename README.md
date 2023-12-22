@@ -1,4 +1,4 @@
-👋 Hi, I’m @RoyaJafari89
+👋 Hi, I’m @RoyaJafari
 
 👀 I’m interested in computational chemistry, biotechnology, and innovative research projects.
 
